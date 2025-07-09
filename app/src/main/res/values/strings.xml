@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="search_hint">Search employees...</string>
+    <string name="no_employees_found">No employees found</string>
+    <string name="adjust_search_text">Try adjusting your search or refresh the data</string>
+    <string name="error_message">Error message will appear here</string>
+    <string name="employee_name">John Doe</string>
+    <string name="employee_id">ID: 123</string>
+    <string name="employee_salary">Salary: $50000</string>
+    <string name="employee_age">Age: 30</string>
+</resources>
